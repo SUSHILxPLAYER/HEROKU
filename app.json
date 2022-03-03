@@ -1,7 +1,7 @@
 {
-  "name": "ULTRA X",
-  "description": "THE SUPER USERBOT MADED BY TEAM LEGEND AND TEAM ULTRA MANY MODULES AND SUPER BOT; JOIN @UltraXChat FOR HELP ",
-  "logo": "https://telegra.ph/file/949acd88c4b9cd4f72485.jpg",
+  "name": "NISHU X",
+  "description": "THE SUPER USERBOT MADED BY TEAM COBRA AND TEAM 8X MANY MODULES AND SUPER BOT; JOIN @ALLF_BAN FOR HELP ",
+  "logo": "https://te.legra.ph/file/85954f386aa7195ef3dc4.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ULTRA-OP/HEROKU/",
-  "website": "https://github.com/ULTRA-OP/HEROKU/",
-  "success_url": "https://t.me/ULTRAXCHAT",
+  "repository": "https://github.com/SUSHILxMUSIC/",
+  "website": "https://github.com/SUSHILxSPAM",
+  "success_url": "https://t.me/ALLF_BAN",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -28,7 +28,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @LEGENDX22.",
+      "description": "Fill your Full name or Username like @NISHU USERBOT.",
       "value": "",
       "required": false
     },
