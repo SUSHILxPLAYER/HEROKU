@@ -83,4 +83,4 @@ tswift
 telethon==1.23.0
 faker
 google_trans_new
-LEGENDX
+NISHUxUSERBOT
